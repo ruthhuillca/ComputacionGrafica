@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1536193565 source:c:\users\ruth\documents\opengl\poligono\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<GL/glut.h>
+	<iostream>
+	<math.h>
+
+976688572 c:\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+893401200 c:\glut\include\gl\gl.h
+
+893401200 c:\glut\include\gl\glu.h
+	<GL/gl.h>
+
