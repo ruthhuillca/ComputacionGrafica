@@ -1,5 +1,8 @@
 #include "stdafx.h"
 #include <stdlib.h>
+#include<windows.h>
+#include<C:\GLUT\include\GL\glut.h>
+
 #include <stdio.h>
 #include <GL/glut.h>
 #include <iostream>
